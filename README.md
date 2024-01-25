@@ -47,7 +47,7 @@ For my first prototype, I decided to cut the paper into 3 pieces and fold each i
 
 ### Testing and Critique
 
-This is my first prototype, the tower to stand and seems solid, but 
+This is my first prototype, the tower stands and seems solid, but cutting a little cut and attaching another prism on top proved to be more difficult because the prisms are really skinny. 
 
 ![20240124_200925](https://github.com/StAndrewsCollege/2324-tej3m-5-e-0-sprint0-AustinGao6/assets/156111679/a060cb62-5eb0-43d9-84a2-0e52d0091be7)
 
@@ -58,4 +58,4 @@ You will document your final design idea in detail, with enough technical detail
 
 ### Conclusion
 
-You will make a brief comment on the success of your design and what next steps others might build on your work.
+I think my design is pretty good because I have a stable structure and a decent height for a tower built with one paper no tape.
