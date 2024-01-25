@@ -29,19 +29,28 @@ You will follow the steps outlined below (for both this sprint and those for our
 
 ### Research
 
-You will research and document technical resources that you believe will help you succeed at the sprint.
+I asked Google and chatGpt to give me examples of how to build a paper tower without tape. The general idea is to have a strong base, mainly using triangles.
 
 ### Ideation
 
-You will create quick sketches or descriptions of your planned design
+Here is my first design of the idea and prototype.
+![20240124_195537](https://github.com/StAndrewsCollege/2324-tej3m-5-e-0-sprint0-AustinGao6/assets/156111679/2431a269-c4af-48ec-ae2b-a666db532619)
+
 
 ### Prototyping
 
-You will make a quick and simple test of your ideas, making something that is built and tested as quickly as possible.
+For my first prototype, I decided to cut the paper into 3 pieces and fold each into a triangular prism. In order to stabilise it, I decided to cut little cuts on the top side of the prisms, so it is easier to attach each prism. 
+![20240124_195818](https://github.com/StAndrewsCollege/2324-tej3m-5-e-0-sprint0-AustinGao6/assets/156111679/1fd8984c-1304-4bf7-a9f8-2f652fb2c476)
+![20240124_200835](https://github.com/StAndrewsCollege/2324-tej3m-5-e-0-sprint0-AustinGao6/assets/156111679/4b3f2ec5-c628-4ee9-b3e8-fcf786e39b33)
+
+
 
 ### Testing and Critique
 
-You will evaluate your prototype and document your thinking, what you have learned and how you will improve your design.
+This is my first prototype, the tower to stand and seems solid, but 
+
+![20240124_200925](https://github.com/StAndrewsCollege/2324-tej3m-5-e-0-sprint0-AustinGao6/assets/156111679/a060cb62-5eb0-43d9-84a2-0e52d0091be7)
+
 
 ### Final design
 
